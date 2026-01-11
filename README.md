@@ -15,7 +15,6 @@ I am seeking *internship and training opportunities* to gain real-world exposure
 
  🛠 Skills & Tools
 - Programming: C
-- Core Concepts: Data Structures & Algorithms
 - Tools:GitHub
 - Practice Platforms: LeetCode,Hacker rank
 
