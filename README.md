@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**shabarish-sha/shabarish-sha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+B.E. CSE (Artificial Intelligence & Machine Learning) Undergraduate  
+Focused on building strong fundamentals in programming and problem solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+👋 About Me
+I am an undergraduate student specializing in Artificial Intelligence & Machine Learning.  
+I actively practice programming and Data Structures to build a solid foundation for a career in technology.
+
+I am seeking *internship and training opportunities* to gain real-world exposure and improve my technical skills.
+
+---
+
+ 🛠 Skills & Tools
+- Programming: C
+- Core Concepts: Data Structures & Algorithms
+- Tools:GitHub
+- Practice Platforms: LeetCode,Hacker rank
+
+
+
+ 🎯 Current Focus
+- Improving problem-solving skills  
+- Strengthening core AI and Machine Learning fundamentals  
+- Preparing for internships and technical interviews  
+
+
+ 📫 Contact
+- GitHub: https://github.com/ShabarishSha
+- Linkedin : https://www.linkedin.com/in/shabarish-s120608
+- Open to internships & learning opportunities
