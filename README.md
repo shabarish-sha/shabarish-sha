@@ -28,5 +28,5 @@ I am seeking *internship and training opportunities* to gain real-world exposure
 
  📫 Contact
 - GitHub: https://github.com/ShabarishSha
-- Linkedin : https://www.linkedin.com/in/shabarish-s120608
+- Linkedin : https://www.linkedin.com/in/shabarish12
 - Open to internships & learning opportunities
