@@ -14,7 +14,7 @@ I am seeking *internship and training opportunities* to gain real-world exposure
 ---
 
  🛠 Skills & Tools
-- Programming: C
+- Programming: C,Python
 - Tools:GitHub
 - Practice Platforms: LeetCode,Hacker rank
 
